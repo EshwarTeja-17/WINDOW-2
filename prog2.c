@@ -4,4 +4,5 @@ int main()
 {
 	printf("program 2\n");
 	printf("added pull-ups\n");
+	printf("add button\n");
 }
